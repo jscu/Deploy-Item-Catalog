@@ -148,6 +148,6 @@
 - Go to http://itemcatalog.ddns.net or http://35.161.228.242
 - Note that login can only be performed by using http://itemcatalog.ddns.net
 
-# Third Party Resources
+# Third-Party Resources
 - [No-IP](https://www.noip.com/)
 - [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-apache-mysql-and-python-lamp-server-without-frameworks-on-ubuntu-14-04)
